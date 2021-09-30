@@ -1,0 +1,23 @@
+* {
+  background-color: aquamarine;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 2rem;
+  padding: 1.5rem;
+  cursor: pointer;
+}
+
+input {
+  width: 400px;
+  height: 2rem;
+  background: white;
+  margin: 10px;
+}
+span {
+  padding: 0.5rem;
+}
+div {
+  margin-top: 10px;
+}
